@@ -1,5 +1,5 @@
-#  Microverse-Hello-Project:
-Microverse-Hello-Project is for testing knowledge of how to use git and github.
+#  Microverse-Project-hello:
+Microverse-Project-hello is for testing knowledge of how to use git and github.
 It contains a README file, html, css, gitignore and test.md
 
 
